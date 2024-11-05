@@ -1,6 +1,3 @@
-
-Claro! Vou ajustar para que o README tenha uma formatação visual agradável no GitHub:
-
 🎟️ GetNGo
 GetNGo é um site de venda de ingressos para shows, eventos esportivos e teatro. Desenvolvido com React, o projeto proporciona uma plataforma intuitiva e rápida para adquirir ingressos para os mais variados eventos.
 
