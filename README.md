@@ -2,7 +2,8 @@
 
 # 🎟️ GetNGo
 
-**GetNGo** é um site de venda de ingressos para eventos como shows, esportes e teatro. Desenvolvido com **React**, ele oferece uma experiência intuitiva e rápida para a compra de ingressos para os mais variados eventos.
+**GetNGo** é um site de venda de ingressos para eventos como shows, esportes e teatro. Desenvolvido com **React**,
+ ele oferece uma experiência intuitiva e rápida para a compra de ingressos para os mais variados eventos.
 
 ## 📝 Funcionalidades
 
