@@ -45,22 +45,3 @@ Certifique-se de ter instalado:
    npm run dev
    ```
 
-4. A aplicação estará disponível em: [http://localhost:3000](http://localhost:3000).
-
----
-
-## 📄 Contribuição
-
-1. **Faça um fork** do projeto.
-2. Crie uma nova branch com suas alterações (`git checkout -b feature/nova-funcionalidade`).
-3. Faça o commit das suas mudanças (`git commit -m 'Adiciona nova funcionalidade'`).
-4. Envie para a branch principal (`git push origin feature/nova-funcionalidade`).
-5. Abra uma Pull Request.
-
-## 📜 Licença
-
-Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-**GetNGo**: Simplificando a forma de adquirir ingressos para todos os tipos de eventos!
